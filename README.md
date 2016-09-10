@@ -1,2 +1,2 @@
 # Rails
-This is my Ruby on Rails repo with amazing apps
+This is an evernote app like made with ruby on rails
